@@ -16,7 +16,8 @@ A simple personal portfolio website built using HTML and CSS. This project inclu
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/[link].git
+   git clone https://sathishs077.github.io/portfolio-simple-website/
+
    ```
 2. Open the project folder.
 3. Open `index.html` in your web browser.
@@ -38,7 +39,7 @@ This project was created to practice my HTML and CSS skills and build my first p
 
 **SATHISH S**
 
-- GitHub: https://github.com/@Sathish077
+- GitHub: https://github.com/@Sathishs077
 
 ---
 
